@@ -1,0 +1,16 @@
+####################Comandos git utilizados nesse módulo#############################
+
+git init - para iniciar o repositório git na pasta selecionada
+git status - para verificar se houve alterações no repo a serem atualizadas
+git clone - para clonar o repositório desejado
+git add . - adicionar alterações do repo local para o remoto
+git commit -m "" - comando utilizado para subir a alteração como uma descrição
+git pull - atualizar o repositório local para o mais atual
+git push - enviar as alterações do repo local para o remoto
+
+#####################################################################################
+Link para download do git = https://git-scm.com/downloads
+Link do repo utilizado = https://github.com/sigrid-fr/dio-desafio-primeiro-repo.git
+#####################################################################################
+
+O git bash é um terminal.
